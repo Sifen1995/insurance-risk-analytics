@@ -8,3 +8,4 @@ shap
 dvc
 pytest
 flake8
+notebook
